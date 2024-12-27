@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Grauer Lab - Pennsylvania State University](http://samgrauer.ca/), Indian Institute of Technology Kanpur
+subtitle: <a href='#'>Affiliations</a>. [Grauer Lab](http://samgrauer.ca/) - [Pennsylvania State University](https://www.me.psu.edu/), [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/)
 profile:
   align: right
   image: prof_pic.jpg
