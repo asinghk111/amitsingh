@@ -84,16 +84,15 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2015
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Academic Excellence Award
+    - year: 2016
       items:
-        - Max Planck Medal
+        - Academic Excellence Award
 
 - title: Academic Interests
-  type: nested_list
+  type: Inverse Problems, Computational Imaging, Computed Tomography
   contents:
     - title: Topic 1.
       items:
