@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='http://samgrauer.ca/'>Affiliations</a>. Grauer Lab - Pennsylvania State University <b>Previously: </b> IIT Kanpur/IISc"
+subtitle: <a href='http://samgrauer.ca/'>Affiliations</a>. Grauer Lab - Pennsylvania State University <b>Previously: </b> IIT Kanpur/IISc
 profile:
   align: right
   image: prof_pic.jpg
