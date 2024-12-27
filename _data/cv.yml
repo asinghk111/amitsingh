@@ -15,17 +15,27 @@
       institution: Pennsylvania State University, University Park, PA 16802
       year: 2026
       description:
-        - title: Development and Deployment of 4D Emission Tomography for Reacting Waves.
+        - title: Development and Deployment of 4D Emission Tomography for Reacting Waves
           contents:
-            - Developed neural-implicit framework for 4D tomographic imaging of detonation waves.
-            - Developed observation operator for chemiluminescence that accounts for depth-of-field effects.
+            - Developed neural-implicit framework for 4D tomographic imaging of detonation waves
+            - Developed observation operator for chemiluminescence that accounts for depth-of-field effects
 
-    - title: Masters in Technology
+    - title: Master of Technology
       institution: Indian Institute of Technology Kanpur, India
       year: 2018
       description:
-        - Characterized surface roughness by incorporating protrusions of various geometrical shapes.
-        - Applied the Direct Simulation Monte Carlo (DSMC) method to evaluate the effective Tangential Momentum Accommodation Coefficient (TMAC) considering roughness effects.
+        - title: Study of the Effect of Roughness on Gas-Surface Interactions.
+          contents:
+            - Characterized surface roughness by incorporating protrusions of various geometrical shapes
+            - Applied the Direct Simulation Monte Carlo (DSMC) method to evaluate the effective Tangential Momentum Accommodation Coefficient (TMAC) considering roughness effects
+            - Developed an empirical model linking effective TMAC to roughness parameters using supervised machine-learning techniques
+
+      - title: Bachelor of Technology
+        institution: Indian Institute of Technology Kanpur, India
+        year: 2017
+        description:
+          - Majored in Aerospace Engineering 
+          - Coursework focused on Computational Fluid Mechanics, Turbulence, High-Speed flows, Combustion, Molecular Dynamics
 
 - title: Experience
   type: time_table
