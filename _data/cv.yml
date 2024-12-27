@@ -13,20 +13,22 @@
   contents:
     - title: PhD
       institution: Pennsylvania State University, University Park, PA 16802
-      year: 1905
+      year: 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Development and Deployment of 4D Emission Tomography for Reacting Waves.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Developed neural-implicit framework for 4D tomographic imaging of detonation waves.
+            - Developed observation operator for chemiluminescence that accounts for depth-of-field effects.
+            - Implemented efficient sampling method for forward and inverse chemiluminescence imaging.
+            - Validated framework using synthetic chemiluminescence images of a turbulent CH4/air flame.
+            - Developed operator for refraction correction due to curved domain in detonation experiments.
+    - title: Masters in Technology
+      institution: Indian Institute of Technology Kanpur, India
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Characterized surface roughness by incorporating protrusions of various geometrical shapes
+        - Applied the Direct Simulation Monte Carlo (DSMC) method to evaluate the effective Tangential Momentum Accommodation Coefficient (TMAC) considering roughness effects
+        - Developed an empirical model linking effective TMAC to roughness parameters using supervised machine-learning techniques
 
 - title: Experience
   type: time_table
