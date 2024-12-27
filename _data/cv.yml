@@ -65,6 +65,10 @@
       institution: Indian Institute of Technology Kanpur, India
       year: 2017-2018
 
+    - title: Undergraduate Research Internship
+      institution: Cyient Limited, India
+      year: 2017-2018
+
 - title: Open Source Projects
   type: time_table
   contents:
@@ -83,7 +87,7 @@
         - Academic Excellence Award
 
 - title: Academic Interests
-  type: Inverse Problems, Computational Imaging, Computed Tomography
+  type: Inverse Problems
   contents:
     - title: Topic 1.
       items:
