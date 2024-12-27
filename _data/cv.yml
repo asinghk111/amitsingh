@@ -46,20 +46,11 @@
   contents:
     - title: Graduate Research Assistant
       institution: Department of Mechanical Engineering, Pennsylvania State University, USA
-      year: 2021 - 2022
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2022 - Present
+
     - title: Graduate Teaching Assistant
       institution: Department of Mechanical Engineering, Pennsylvania State University, USA
-      year: 2023-Present
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2021-2022
 
     - title: Research Associate
       institution: Indian Institute of Science Bangalore, India
