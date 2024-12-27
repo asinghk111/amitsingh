@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://amitkumarphd.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://aks-psu.github.io/sitemap.xml
