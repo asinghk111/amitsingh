@@ -19,16 +19,13 @@
           contents:
             - Developed neural-implicit framework for 4D tomographic imaging of detonation waves.
             - Developed observation operator for chemiluminescence that accounts for depth-of-field effects.
-            - Implemented efficient sampling method for forward and inverse chemiluminescence imaging.
-            - Validated framework using synthetic chemiluminescence images of a turbulent CH4/air flame.
-            - Developed operator for refraction correction due to curved domain in detonation experiments.
+
     - title: Masters in Technology
       institution: Indian Institute of Technology Kanpur, India
       year: 2018
       description:
-        - Characterized surface roughness by incorporating protrusions of various geometrical shapes
-        - Applied the Direct Simulation Monte Carlo (DSMC) method to evaluate the effective Tangential Momentum Accommodation Coefficient (TMAC) considering roughness effects
-        - Developed an empirical model linking effective TMAC to roughness parameters using supervised machine-learning techniques
+        - Characterized surface roughness by incorporating protrusions of various geometrical shapes.
+        - Applied the Direct Simulation Monte Carlo (DSMC) method to evaluate the effective Tangential Momentum Accommodation Coefficient (TMAC) considering roughness effects.
 
 - title: Experience
   type: time_table
