@@ -17,8 +17,12 @@
       description:
         - title: Development and Deployment of 4D Emission Tomography for Reacting Waves
           contents:
-            - Developed neural-implicit framework for 4D tomographic imaging of detonation waves
-            - Developed observation operator for chemiluminescence that accounts for depth-of-field effects
+            - Camera Calibration Framework for Multi-Camera Imaging with Refractive Liners
+            - A neural-implicit reconstruction framework for 4D tomographic imaging
+            - Development of an observation operator for chemiluminescence that accounts for depth-of-field effects
+            - Implementation of efficient sampling method for forward and inverse chemiluminescence imaging
+            - Validation framework using synthetic chemiluminescence images of a turbulent CH4/air flame
+            - Development of an operator for refraction correction due to curved domain in detonation experiments
 
     - title: Master of Technology
       institution: Indian Institute of Technology Kanpur, India
