@@ -2,12 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Pennsylvania State University
+subtitle: <a href='#'>Affiliations</a>. [Pennsylvania State University](https://www.me.psu.edu/), [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/)
+
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>+1 814-321-4587</p>
     <p>223 Research East</p>
