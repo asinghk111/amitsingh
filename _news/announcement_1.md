@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD emoji! :sparkles: :smile:
+Started my PhD at Penn State Univeristy :sparkles: :smile:
