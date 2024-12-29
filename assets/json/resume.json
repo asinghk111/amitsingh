@@ -14,7 +14,6 @@
       "countryCode": "US",
       "region": "Pennsylvania"
     },
-    
   "education": [
     {
       "institution": "Pennsylvania State University",
@@ -27,7 +26,6 @@
       "score": "4",
       "courses": ["Development and Deployment of 4D Emission Tomography for Reacting Waves"]
     }
-
     {
       "institution": "Indian Institute of Technology Kanpur",
       "location": "Kanpur, India, 208016",
@@ -39,7 +37,6 @@
       "score": "3.9",
       "courses": ["Study of the Effect of Roughness on Gas-Surface Interactions"]
     }
-    
     {
       "institution": "Indian Institute of Technology Kanpur",
       "location": "Kanpur, India, 208016",
@@ -51,7 +48,6 @@
       "score": "3.4",
       "courses": ["Aerospace Engineering"]
     }
-    
   ],
     
   "work": [
