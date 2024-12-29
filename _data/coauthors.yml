@@ -1,9 +1,9 @@
 "samuel":
-  - firstname: ["Samuel", "J.", "Grauer", "SJ Grauer", "S Grauer", "Grauer, Samuel"]
+  - firstname: ["Samuel", "SJ", "Grauer", "SJ Grauer", "S Grauer", "Samuel J", "Grauer, Samuel"]
     url: https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=pWaOsMIAAAAJ&sortby=pubdate
 
 "joseph":
-  - firstname: ["Joseph Molnar", "Joseph", "J. M.", "J Molnar", "JP Molnar", "Molnar, Joseph P"]
+  - firstname: ["Joseph Molnar", "Joseph", "J. M.", "J Molnar", "JP Molnar", "Molnar, Joseph P", "Joseph P"]
     url: https://scholar.google.ca/citations?user=aEPUt6cAAAAJ&hl=en
 
 "zhou":
