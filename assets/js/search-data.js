@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-started-my-phd-at-penn-state-univeristy-sparkles-smile",
-          title: 'Started my PhD at Penn State Univeristy :sparkles: :smile:',
+    },{id: "news-started-phd-in-mechanical-engineering-at-penn-state-university-sparkles-smile",
+          title: 'Started PhD in mechanical engineering at Penn State University :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-joined-grauer-lab",
           title: 'Joined Grauer Lab.',
