@@ -30,7 +30,7 @@
 
     {
       "institution": "Indian Institute of Technology Kanpur",
-      "location": "Kanpur, Inida, 208016",
+      "location": "Kanpur, India, 208016",
       "url": "http://www.iitk.ac.in/",
       "area": "Graduate Research Assistant",
       "studyType": "Master of Technology",
@@ -42,7 +42,7 @@
     
     {
       "institution": "Indian Institute of Technology Kanpur",
-      "location": "Kanpur, Inida, 208016",
+      "location": "Kanpur, India, 208016",
       "url": "http://www.iitk.ac.in/",
       "area": "Graduate Research Assistant",
       "studyType": "Master of Technology",
@@ -54,41 +54,39 @@
     
   ],
     
-  "Work Experience": [
+  "work": [
     {
-      "institution": "Pennsylvania State University",
-      "location": "University Park, PA 16802",
+      "name": "Pennsylvania State University",
+      "position": "Graduate Research Assistant",
       "url": "https://www.me.psu.edu/",
-      "area": "Graduate Research Assistant",
-      "studyType": "PhD",
-      "startDate": "2021-08-22",
-      "endDate": "2026-12-31",
-      "score": "4",
-      "courses": ["Development and Deployment of 4D Emission Tomography for Reacting Waves"]
+      "startDate": "2026-08-01",
+      "endDate": "2022-08-01",
+      "summary": "Developing Tomographic Reconstruction Framework for various diagnostics.",
+      "highlights": ["Inverse Problems"]
     }
 
     {
-      "institution": "Indian Institute of Technology Kanpur",
-      "location": "Kanpur, Inida, 208016",
-      "url": "http://www.iitk.ac.in/",
-      "area": "Graduate Research Assistant",
-      "studyType": "Master of Technology",
-      "startDate": "2017-07-01",
-      "endDate": "2018-05-21",
-      "score": "3.9",
-      "courses": ["Study of the Effect of Roughness on Gas-Surface Interactions"]
+      "name": "Pennsylvania State University",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://www.me.psu.edu/",
+      "startDate": "2022-08-01",
+      "endDate": "2022-08-01",
     }
-    
+
     {
-      "institution": "Indian Institute of Technology Kanpur",
-      "location": "Kanpur, Inida, 208016",
-      "url": "http://www.iitk.ac.in/",
-      "area": "Graduate Research Assistant",
-      "studyType": "Master of Technology",
-      "startDate": "2013-07-01",
-      "endDate": "2018-05-21",
-      "score": "3.4",
-      "courses": ["Aerospace Engineering"]
+      "name": "Indian Institute of Science Bengaluru, India",
+      "position": "Research Associate",
+      "url": "https://iisc.ac.in/",
+      "startDate": "2018-11-15",
+      "endDate": "2020-03-31",
+    }
+
+    {
+      "name": "Indian Institute of Science Bengaluru, India",
+      "position": "Research Associate",
+      "url": "https://iisc.ac.in/",
+      "startDate": "2018-11-15",
+      "endDate": "2020-03-31",
     }
     
   ],
