@@ -1,9 +1,10 @@
-"AJP":
+"APS":
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
+"SciTech":
+  url: https://www.aiaa.org/
   color: "#009f36"
