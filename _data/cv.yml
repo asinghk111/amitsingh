@@ -7,6 +7,10 @@
       value: 15th January
     - name: Languages
       value: English, Hindi
+    - name: Email
+      value: aks7045@psu.edu     
+    - name: Phone
+      value: 814-321-45XX
 
 - title: Education
   type: time_table
