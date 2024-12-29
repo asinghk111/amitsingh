@@ -2,8 +2,9 @@
 layout: post
 title: Scitech 2025
 date: 2025-03-15 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I will be presenting my work on Emission Tomography at [Scitech 2025, Orlando, FL](https://www.aiaa.org/SciTech).
+
