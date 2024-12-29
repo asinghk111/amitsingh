@@ -437,8 +437,8 @@ ninja.data = [{
           section: "News",},{id: "news-joined-grauer-lab",
           title: 'Joined Grauer Lab.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-scitech-2025",
+          title: 'Scitech 2025',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
