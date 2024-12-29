@@ -1,9 +1,9 @@
 "samuel":
-  - firstname: ["Samuel", "J.", "Grauer", "SJ Grauer", "S Grauer"]
+  - firstname: ["Samuel", "J.", "Grauer", "SJ Grauer", "S Grauer", "Grauer, Samuel"]
     url: https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=pWaOsMIAAAAJ&sortby=pubdate
 
 "joseph":
-  - firstname: ["Joseph Molnar", "Joseph", "J. M.", "J Molnar"]
+  - firstname: ["Joseph Molnar", "Joseph", "J. M.", "J Molnar", "JP Molnar", "Molnar, Joseph P"]
     url: https://scholar.google.ca/citations?user=aEPUt6cAAAAJ&hl=en
 
 "zhou":
@@ -15,6 +15,6 @@
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
 "kishore":
-  - firstname: ["Kishore K Kammara", "K. K.", "KK Kammara"]
+  - firstname: ["Kishore K Kammara", "Kammara, Kishore K","K. K.", "KK Kammara"]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
