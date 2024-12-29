@@ -13,7 +13,8 @@
       "city": "University Park",
       "countryCode": "US",
       "region": "Pennsylvania"
-    },
+    }
+  },
   "education": [
     {
       "institution": "Pennsylvania State University",
@@ -33,8 +34,8 @@
       "name": "Pennsylvania State University",
       "position": "Graduate Research Assistant",
       "url": "https://www.me.psu.edu/",
-      "startDate": "2026-08-01",
-      "endDate": "2022-08-01",
+      "startDate": "2022-08-01",
+      "endDate": "2026-08-01",
       "summary": "Developing Tomographic Reconstruction Framework for various diagnostics.",
       "highlights": ["Inverse Problems"]
     }
@@ -134,5 +135,5 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ],
+  ]
 }
