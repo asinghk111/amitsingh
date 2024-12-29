@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+1 814-321-4587</p>
+    <p>+1 814-321-45XX</p>
     <p>223 Research East</p>
     <p>University Park, Pennsylvania 16801</p>
 
