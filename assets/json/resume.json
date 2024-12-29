@@ -82,13 +82,28 @@
     }
 
     {
-      "name": "Indian Institute of Science Bengaluru, India",
-      "position": "Research Associate",
-      "url": "https://iisc.ac.in/",
-      "startDate": "2018-11-15",
-      "endDate": "2020-03-31",
+      "name": "Next Education India Pvt Ltd, India",
+      "position": "Subject Matter Expert",
+      "url": "https://www.nexteducation.in/",
+      "startDate": "2018-07-20",
+      "endDate": "2018-10-31",
     }
     
+    {
+      "name": "Indian Institute of Technology Kanpur, India",
+      "position": "Subject Matter Expert",
+      "url": "http://www.iitk.ac.in/",
+      "startDate": "2017-07-20",
+      "endDate": "2018-05-31",
+    }
+    
+    {
+      "name": "Cyient Limited, India",
+      "position": "Undergraduate Research Internship",
+      "url": "https://www.cyient.com/",
+      "startDate": "2016-05-01",
+      "endDate": "2016-07-31",
+    }
   ],
     
   "awards": [
