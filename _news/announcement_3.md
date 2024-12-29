@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scitech 2025
-date: 2025-03-15 16:11:00-0400
+date: 2025-01-07 15:30:00-0400
 inline: true
 related_posts: false
 ---
