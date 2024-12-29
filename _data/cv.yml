@@ -88,10 +88,10 @@
   contents:
     - title: Inverse Problems
       items:
-        - Chemiluminescence Tomography, Background Oriented Schlieren (BOS), Particle Image Velocimetry (PIV), Computational Imaging
+        - Emission Tomography, Background Oriented Schlieren (BOS), Particle Image Velocimetry (PIV), Computational Imaging
     - title: Machine Learning 
       items:
-        - Physics Informed Machine Learning, Computer Vision, Optimization
+        - Neural Implicit Reconstructions, Physics Informed Machine Learning, Computer Vision, Optimization, Deep Learning, Data Mining
 
 - title: Other Interests
   type: list
