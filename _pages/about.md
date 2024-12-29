@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://samgrauer.ca/'>Affiliations</a>. Pennsylvania State University <b>Previously</b> IIT Kanpur, India/ IISc Bengaluru
+subtitle: <a href='http://samgrauer.ca/'>Affiliations</a>. Pennsylvania State University, <b>Previously: </b> IIT Kanpur, India/ IISc Bengaluru
 profile:
   align: right
   image: prof_pic.jpg
