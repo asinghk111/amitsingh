@@ -437,12 +437,10 @@ ninja.data = [{
           section: "News",},{id: "news-joined-grauer-lab",
           title: 'Joined Grauer Lab.',
           description: "",
-          section: "News",},{id: "news-scitech-2025",
-          title: 'Scitech 2025',
+          section: "News",},{id: "news-i-will-be-presenting-my-work-on-emission-tomography-at-scitech-2025-orlando-fl",
+          title: 'I will be presenting my work on Emission Tomography at Scitech 2025, Orlando,...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
