@@ -431,11 +431,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-will-be-presenting-my-work-on-emission-tomography-at-scitech-2025-orlando-florida",
-          title: 'I will be presenting my work on Emission Tomography at Scitech 2025, Orlando,...',
-          description: "",
-          section: "News",},{id: "news-started-my-phd-at-penn-state-univeristy-sparkles-smile",
+    },{id: "news-started-my-phd-at-penn-state-univeristy-sparkles-smile",
           title: 'Started my PhD at Penn State Univeristy :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-joined-grauer-lab",
+          title: 'Joined Grauer Lab.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
