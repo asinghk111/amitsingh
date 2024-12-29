@@ -431,12 +431,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-i-will-be-presenting-my-work-on-emission-tomography-at-scitech-2025-orlando-florida",
+          title: 'I will be presenting my work on Emission Tomography at Scitech 2025, Orlando,...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-started-my-phd-emoji-sparkles-smile",
+          section: "News",},{id: "news-started-my-phd-emoji-sparkles-smile",
           title: 'Started my PhD emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-started-my-phd-emoji-sparkles-smile",
