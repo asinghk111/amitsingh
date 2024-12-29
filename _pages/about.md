@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://samgrauer.ca/'>Affiliations</a>. Pennsylvania State University Previosuly: IIT Kanpur
+subtitle: <a href='http://samgrauer.ca/'>Affiliations</a>. Pennsylvania State University <a href='http://samgrauer.ca/'>Affiliations</a>
 profile:
   align: right
   image: prof_pic.jpg
