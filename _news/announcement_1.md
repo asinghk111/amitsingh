@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD at Penn State Univeristy :sparkles: :smile:
+Started PhD in mechanical engineering at Penn State University :sparkles: :smile:
