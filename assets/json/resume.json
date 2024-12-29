@@ -26,28 +26,6 @@
       "score": "4",
       "courses": ["Development and Deployment of 4D Emission Tomography for Reacting Waves"]
     }
-    {
-      "institution": "Indian Institute of Technology Kanpur",
-      "location": "Kanpur, India, 208016",
-      "url": "http://www.iitk.ac.in/",
-      "area": "Graduate Research Assistant",
-      "studyType": "Master of Technology",
-      "startDate": "2017-07-01",
-      "endDate": "2018-05-21",
-      "score": "3.9",
-      "courses": ["Study of the Effect of Roughness on Gas-Surface Interactions"]
-    }
-    {
-      "institution": "Indian Institute of Technology Kanpur",
-      "location": "Kanpur, India, 208016",
-      "url": "http://www.iitk.ac.in/",
-      "area": "Graduate Research Assistant",
-      "studyType": "Master of Technology",
-      "startDate": "2013-07-01",
-      "endDate": "2018-05-21",
-      "score": "3.4",
-      "courses": ["Aerospace Engineering"]
-    }
   ],
     
   "work": [
@@ -59,46 +37,6 @@
       "endDate": "2022-08-01",
       "summary": "Developing Tomographic Reconstruction Framework for various diagnostics.",
       "highlights": ["Inverse Problems"]
-    }
-
-    {
-      "name": "Pennsylvania State University",
-      "position": "Graduate Teaching Assistant",
-      "url": "https://www.me.psu.edu/",
-      "startDate": "2022-08-01",
-      "endDate": "2022-08-01",
-    }
-
-    {
-      "name": "Indian Institute of Science Bengaluru, India",
-      "position": "Research Associate",
-      "url": "https://iisc.ac.in/",
-      "startDate": "2018-11-15",
-      "endDate": "2020-03-31",
-    }
-
-    {
-      "name": "Next Education India Pvt Ltd, India",
-      "position": "Subject Matter Expert",
-      "url": "https://www.nexteducation.in/",
-      "startDate": "2018-07-20",
-      "endDate": "2018-10-31",
-    }
-    
-    {
-      "name": "Indian Institute of Technology Kanpur, India",
-      "position": "Subject Matter Expert",
-      "url": "http://www.iitk.ac.in/",
-      "startDate": "2017-07-20",
-      "endDate": "2018-05-31",
-    }
-    
-    {
-      "name": "Cyient Limited, India",
-      "position": "Undergraduate Research Internship",
-      "url": "https://www.cyient.com/",
-      "startDate": "2016-05-01",
-      "endDate": "2016-07-31",
     }
   ],
     
