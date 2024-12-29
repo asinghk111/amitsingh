@@ -23,4 +23,4 @@ I am a PhD student working in [Grauer Lab](http://samgrauer.ca/) at [Penn State]
 
 Previously, I have worked on Rarefied Flow at [Non-equilibrium Flow Simulation (NFS) Laboratory](https://home.iitk.ac.in/~rkm/) as part of my master's thesis and Bachelor’s and Master’s degree in Aerospace Engineering from the [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/). I have also worked on Physics Informed Neural Networks (PINN) and have exposure working in experimental facilities on High-speed flows and combustion.   
 
-In my spare time, I prefer watching movies and reading books related to various cultures and Indian politics. I grew up in the northern part of India and can fluently speak Hindi. 
+In my spare time, I prefer watching movies and reading books related to cultures, religion, and Indian politics. I grew up in the northern part of India and can fluently speak Hindi. 
