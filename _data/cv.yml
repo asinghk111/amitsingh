@@ -73,7 +73,7 @@
       institution: Cyient Limited, India
       year: 2017-2018
 
-- title: Open Source Projects
+- title: Skills
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
@@ -91,13 +91,13 @@
         - Academic Excellence Award
 
 - title: Academic Interests
-  type: Inverse Problems
+  type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Inverse Problems
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Experiments
       items:
         - Description 1.
         - Description 2.
