@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Scitech 2025
 date: 2025-03-15 16:11:00-0400
 inline: false
 related_posts: false
