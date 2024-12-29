@@ -14,49 +14,44 @@
       "countryCode": "US",
       "region": "Pennsylvania"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+    
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Pennsylvania State University",
+      "location": "University Park, PA 16802",
+      "url": "https://www.me.psu.edu/",
+      "area": "Graduate Research Assistant",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-08-22",
+      "endDate": "2026-12-31",
+      "score": "4",
+      "courses": ["Development and Deployment of 4D Emission Tomography for Reacting Waves"]
     }
+
+    {
+      "institution": "Indian Institute of Technology Kanpur",
+      "location": "Kanpur, Inida, 208016",
+      "url": "http://www.iitk.ac.in/",
+      "area": "Graduate Research Assistant",
+      "studyType": "Master of Technology",
+      "startDate": "2017-07-01",
+      "endDate": "2018-05-21",
+      "score": "3.9",
+      "courses": ["Study of the Effect of Roughness on Gas-Surface Interactions"]
+    }
+    
+    {
+      "institution": "Indian Institute of Technology Kanpur",
+      "location": "Kanpur, Inida, 208016",
+      "url": "http://www.iitk.ac.in/",
+      "area": "Graduate Research Assistant",
+      "studyType": "Master of Technology",
+      "startDate": "2013-07-01",
+      "endDate": "2018-05-21",
+      "score": "3.4",
+      "courses": ["Aerospace Engineering"]
+    }
+    
   ],
   "awards": [
     {
