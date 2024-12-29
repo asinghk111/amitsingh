@@ -95,14 +95,12 @@
   contents:
     - title: Inverse Problems
       items:
-        - Description 1.
-        - Description 2.
-    - title: Experiments
+        - Chemiluminescence Tomography, Background Oriented Schlieren (BOS), Particle Image Velocimetry (PIV), Computational Imaging
+    - title: Machine Learning 
       items:
-        - Description 1.
-        - Description 2.
+        - Physics Informed Machine Learning, Computer Vision, Optimization
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Literature on culture, Religion and Politics
