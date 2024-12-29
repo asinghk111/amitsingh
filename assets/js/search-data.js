@@ -431,18 +431,18 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-started-my-phd-at-penn-state-univeristy-sparkles-smile",
+    },{id: "news-started-my-phd-at-penn-state-univeristy-sparkles-smile",
           title: 'Started my PhD at Penn State Univeristy :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-joined-grauer-lab",
           title: 'Joined Grauer Lab.',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
