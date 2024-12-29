@@ -1,0 +1,108 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Amit Kumar Singh
+    - name: Date of Birth
+      value: 15th January
+    - name: Languages
+      value: English, Hindi
+    - name: Email
+      value: aks7045@psu.edu     
+    - name: Phone
+      value: 814-321-45XX
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Pennsylvania State University, University Park, PA 16802
+      year: 2026
+      description:
+        - title: Development and Deployment of 4D Emission Tomography for Reacting Waves
+          contents:
+            - Camera Calibration Framework for Multi-Camera Imaging with Refractive Liners
+            - A neural-implicit reconstruction framework for 4D tomographic imaging
+            - Development of an observation operator for chemiluminescence that accounts for depth-of-field effects
+            - Implementation of efficient sampling method for forward and inverse chemiluminescence imaging
+            - Validation framework using synthetic chemiluminescence images of a turbulent CH4/air flame
+            - Development of an operator for refraction correction due to curved domain in detonation experiments
+
+    - title: Master of Technology
+      institution: Indian Institute of Technology Kanpur, India
+      year: 2018
+      description:
+        - title: Study of the Effect of Roughness on Gas-Surface Interactions.
+          contents:
+            - Characterized surface roughness by incorporating protrusions of various geometrical shapes
+            - Applied the Direct Simulation Monte Carlo (DSMC) method to evaluate the effective Tangential Momentum Accommodation Coefficient (TMAC) considering roughness effects
+            - Developed an empirical model linking effective TMAC to roughness parameters using supervised machine-learning techniques
+
+    - title: Bachelor of Technology
+      institution: Indian Institute of Technology Kanpur, India
+      year: 2017
+      description:
+        - Majored in Aerospace Engineering 
+        - Coursework focused on Computational Fluid Mechanics, Turbulence, High-Speed flows, Combustion, Molecular Dynamics
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant
+      institution: Department of Mechanical Engineering, Pennsylvania State University, USA
+      year: 2022 - Present
+
+    - title: Graduate Teaching Assistant
+      institution: Department of Mechanical Engineering, Pennsylvania State University, USA
+      year: 2021-2022
+
+    - title: Research Associate
+      institution: Indian Institute of Science Bengaluru, India
+      year: 2018-2020
+
+    - title: Subject Matter Expert
+      institution: Next Education India Private Limited, India
+      year: 2018-
+      description:
+
+    - title: Teaching Assistant
+      institution: Indian Institute of Technology Kanpur, India
+      year: 2017-2018
+
+    - title: Undergraduate Research Internship
+      institution: Cyient Limited, India
+      year: 2017-2018
+
+- title: Skills
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2015
+      items:
+        - Academic Excellence Award
+    - year: 2016
+      items:
+        - Academic Excellence Award
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Inverse Problems
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Experiments
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
