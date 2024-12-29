@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://samgrauer.ca/'>Affiliations</a>. Grauer Lab - Pennsylvania State University
+subtitle: <a href='http://samgrauer.ca/'>Affiliations</a>. Pennsylvania State University Previosuly: IIT Kanpur
 profile:
   align: right
   image: prof_pic.jpg
