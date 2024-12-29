@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, thanks for stopping by,
+Hi, thanks for stopping by 👏,
 
 I am a PhD student working in [Grauer Lab](http://samgrauer.ca/) at [Penn State](https://www.me.psu.edu/). I am interested in improving fluid mechanics and combustion diagnostic techniques through advanced Computational Imaging and tomography framework. My current research focuses on solving complex flow reconstruction problems by leveraging realistic imaging models and machine learning techniques. Specializing in inverse problems, I work at the intersection of fluid mechanics and machine learning, particularly in computer vision, NIRF, and physics-informed machine learning. By integrating physical laws with data-driven methods, my work aims to push the boundaries of imaging and flow analysis, contributing to more accurate diagnostics and innovative solutions in experimental measurements. Specifically, I am working on Chemiluminesce Tomography but making an effort towards expand my knowledge in Background Oriented Schlieren Tomography and PIV. 
 
